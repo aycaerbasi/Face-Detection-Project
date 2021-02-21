@@ -11,7 +11,7 @@ The purpose of the project is use computer vision to detect faces on an image us
 
 ## Project Description
 
-I imported an image of of the actors of the TV series Friends. And my codes detected their faces. The result can be found below.
+I have imported the image of Friends TV Show. And my codes detect actors' faces. The result can be found below.
 
 
 ![](https://github.com/aycaerbasi/Face-Detection-Project/blob/main/original_image.png)
